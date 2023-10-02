@@ -1,5 +1,6 @@
 # React, Redux toolkit, OMDb API, Movie App
 
+* OMDb Api
 * react-redux redujs/toolkit
 * axios
 * react-router-dom
