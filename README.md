@@ -7,6 +7,6 @@
 * react-icons
 * SASS
 
-You can try it from the link below:
+You can try it from the link:
 [https://react-redux-movie-app-serhatyurdakul.vercel.app/](https://react-redux-movie-app-serhatyurdakul.vercel.app/)
 
